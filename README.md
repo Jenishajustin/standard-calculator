@@ -152,17 +152,17 @@ h1{
 ```
 
 ## OUTPUT:
-![model](calc.png)
+![calc](https://user-images.githubusercontent.com/119405070/214778207-d01b2dcf-843e-4a5a-bb74-7f48b30e2c2b.png)
 <br>
 
-![model](calc1.png)
+![calc1](https://user-images.githubusercontent.com/119405070/214778268-6162085e-dcae-4ce6-a5e0-b6039c3c7dd0.png)
 <br>
 
-![model](calc2.png)
+![calc2](https://user-images.githubusercontent.com/119405070/214778317-9141d09f-879b-4b23-984d-39381dd47d7d.png)
 <br>
 
 ## HTML Validator:
-![model](calcvalid.png)
+![calcvalid](https://user-images.githubusercontent.com/119405070/214778367-c1b5c8a5-e4cc-406d-876a-4f2f9e0c3cfb.png)
 <br>
 
 ## Result:
